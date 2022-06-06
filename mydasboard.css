@@ -1,0 +1,95 @@
+.heading,.heading img{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: xx-large;}
+.heading img{
+    border-radius: 50%;
+    padding: 20px;
+}
+#search{
+    border-radius: 25px;
+  background: #216cad;
+  padding: 15px;
+  width: 35%;
+  height: 30%;
+  text-align: center;
+  color: aliceblue;
+  
+
+
+}
+#img{
+    background-color: aliceblue;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+
+}
+.seachbox{
+    display: inline-block;
+  justify-content: center;
+  align-items: center;
+}
+.form{
+    margin: 0 auto;
+    width: 100%;
+    margin-left: 20%;
+}
+hr{
+  margin-top: 80px;
+}
+.people{
+  margin-left: 100px;
+  font-size: large;
+  padding-top: 20px;
+
+}
+.images{
+  display: flex;
+  padding: 10px;
+  
+  
+  
+  
+}
+.image1{
+  width: 200px;
+  
+  margin-left: 200px;
+}
+.image2{
+  width: 200px;
+  margin-left: 100px;
+
+  }
+  .image3{
+    width: 200px;
+    margin-left: 100px;
+    }
+    .image4{
+      width: 200px;
+      margin-left: 100px;
+      }
+
+
+.image1:hover {
+  -ms-transform: scale(3); 
+  -webkit-transform: scale(3); 
+  transform: scale(3); 
+}
+.image2:hover {
+  -ms-transform: scale(3); 
+  -webkit-transform: scale(3); 
+  transform: scale(3); 
+}
+.image3:hover {
+  -ms-transform: scale(3); 
+  -webkit-transform: scale(3); 
+  transform: scale(3); 
+}
+.image4:hover {
+  -ms-transform: scale(3); 
+  -webkit-transform: scale(3); 
+  transform: scale(3); 
+}

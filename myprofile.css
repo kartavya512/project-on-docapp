@@ -1,0 +1,98 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.heading,.heading img{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: xx-large;
+  
+}
+.heading img{
+    padding: 20px;
+}
+.form{
+    padding: 20px;
+    padding-left: 40px;
+    width: 49%;
+}
+.form label{
+    font-size:medium;
+}
+.form input{
+    width: 40%;
+    border: 2px solid rgb(0, 191, 255);
+    padding-top: 20px;
+}
+.main{
+    border-style: solid ;
+    border-width: 7px;
+    border-color: gray;
+    display: flex;
+    
+    
+}
+.vl {
+    border-left: 3px solid gray;
+    height: 650px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 0;
+  margin-top: 100px;
+  }
+  .rightside{
+      width: 49%;
+      justify-content: center;
+    align-items: center;
+
+
+  }
+  .area{
+      
+      margin-left: 200px;
+      margin-top: 20px;
+      font-size: large;
+  }
+  .imageright{
+      padding: 40px;
+      padding-left: 200px;
+  }
+  .submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  .submit input{
+      width: 130%;
+      padding-top: 8%;
+      text-align: center;
+      background-color:rgb(0, 191, 255) ;
+      color: aliceblue;
+      font-size: medium;
+      border: 0px;
+  }
+  .check{display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+
+  }
+  .calendar img{
+      margin-left: 200px;
+      margin-top: 5px;
+  }
+  .one hr{
+      margin-top: 100px;
+      color: rgb(0, 191, 255);
+  }
+  .two hr{
+    color: rgb(0, 191, 255);
+    border: 2px;
+
+  }
+  .heading{
+      border: 20px;
+  }

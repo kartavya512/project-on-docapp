@@ -1,0 +1,110 @@
+.heading,
+.heading img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: xx-large;
+}
+
+.heading img {
+  border-radius: 50%;
+  padding: 20px;
+}
+
+#search {
+  border-radius: 25px;
+  background: #216cad;
+  padding: 15px;
+  width: 35%;
+  height: 30%;
+  text-align: center;
+  color: aliceblue;
+
+
+
+}
+
+#img {
+  background-color: aliceblue;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+
+}
+
+.seachbox {
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  margin: 0 auto;
+  width: 100%;
+  margin-left: 20%;
+}
+
+hr {
+  margin-top: 80px;
+}
+
+.vl {
+  border-left: 3px solid gray;
+  height: 650px;
+position: absolute;
+left: 50%;
+margin-left: -3px;
+top: 0;
+margin-top: 220px;
+}
+.doc{
+  margin-left: 40px;
+  font-size: large;
+}
+.doc img{
+  margin-top: 20px;
+}
+.do{
+  margin-top: 50px;
+  margin-left: 60px;
+
+}
+.calendar{
+  margin-left: 100px;
+  margin-top: 40px;
+  
+}
+#book{
+  margin-top: 150px;
+  margin-left: 100px;
+}
+.calendar input{
+  
+  width: 10%;
+  
+ border: 0px;
+  
+  background-color: yellow;}
+
+
+.rightside{
+  margin-left: 900px;
+  margin-top:-500px;
+ 
+  
+}
+.m{
+  font-size: large;
+  margin-top: -300px;
+}
+.rightside input{
+  padding-top: 10px;
+  width: 30%;
+  margin-top: 100px;
+ border: 0px;
+  
+  background-color: yellow;
+}
+label{
+  font-size: large;
+}
